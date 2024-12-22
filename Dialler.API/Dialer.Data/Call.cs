@@ -5,23 +5,27 @@ using System.Threading.Tasks;
 
 namespace Dialler.API.Dialer.Data
 {
-    public class Call
-    {
-        	{
+	public class Call
+	{
+
 		public string CallId { get; set; }
-		
-		public string caller{ get; set; }
-		
+
+		public string caller { get; set; }
+
 		public DateTime StartTime { get; set; }
-		
+
 		public DateTime? EndTime { get; set; }
+
+		public CallState State { get; set; }
 		
-		public 
 		
+		public CallType Type { get; set; }
+		
+		public MediaSettings MediaSettings { get; set; }
+
 	}
-	
-	public enum CallState {Ringing, Connected, OnHold, Ended}
-	
-	public enum CallType {Voice, Video}
-    }
+
+	public enum CallState { Ringing, Connected, OnHold, Ended }
+
+	public enum CallType { Voice, Video }
 }

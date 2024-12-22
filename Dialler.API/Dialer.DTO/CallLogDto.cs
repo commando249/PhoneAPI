@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Dialler.API.Dialer.Data
+namespace Dialler.API.Dialer.DTO
 {
-    public class MediaSettings
+    public class CallLogDto
     {
         
     }
