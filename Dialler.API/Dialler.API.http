@@ -1,0 +1,6 @@
+@Dialler.API_HostAddress = http://localhost:5044
+
+GET {{Dialler.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
