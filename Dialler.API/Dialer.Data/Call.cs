@@ -21,7 +21,7 @@ namespace Dialler.API.Dialer.Data
 		
 		public CallType Type { get; set; }
 		
-		public MediaSettings MediaSettings { get; set; }
+		public MediaSetting MediaSetting { get; set; }
 
 	}
 

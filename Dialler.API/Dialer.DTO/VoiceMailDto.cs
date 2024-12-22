@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 
 namespace Dialler.API.Dialer.DTO
 {
-    public class ResolutionDto
+    public class VoiceMailDto
     {
-        public int Width { get; set; }
-        public int Height { get; set; }
+        
     }
 }

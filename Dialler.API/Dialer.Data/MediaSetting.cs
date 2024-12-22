@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Dialler.API.Dialer.Data
 {
-	public class MediaSettings
+	public class MediaSetting
 	{
 		public string AudioCodec { get; set; }
 		
