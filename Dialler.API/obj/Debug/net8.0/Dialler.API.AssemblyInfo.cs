@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dialler.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eec143bf680b9732ba8e81f0142bb61f9894b913")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2718901f8ff9d73b5b74c4c82cfcf5a40ebe77b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dialler.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dialler.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
